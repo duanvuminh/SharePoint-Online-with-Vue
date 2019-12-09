@@ -1,7 +1,7 @@
 <template>
   <v-app :id="$style.keep">
     <v-content app>
-      <div class="cs_container pt-5">
+      <div class="cs_container pa-5">
         <v-layout align-center justify-center>
           <router-view />
         </v-layout>
